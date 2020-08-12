@@ -8,5 +8,8 @@ Sample website with plenty of files for demos
 
 
 ## Subject
+This content refers to a Git training  course
+
 
 ## Deployment
+This step is to test the git diff
