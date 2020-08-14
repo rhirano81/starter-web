@@ -13,3 +13,10 @@ This content refers to a Git training  course
 
 ## Deployment
 This step is to test the git diff
+
+
+## How To Contribute
+Please fork this repository and then issue Pull request for review
+
+### Copyright
+
