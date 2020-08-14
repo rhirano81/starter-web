@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Lebron James	lejames@nba.com		@lejames
 
 # THANKS
 
