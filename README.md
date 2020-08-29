@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 
-UPdating emergency fix after stashing
+UPdating emergency fix after stashing 2nd time
 
 ## Introduction
 
